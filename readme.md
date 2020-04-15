@@ -157,3 +157,4 @@ Each Campground has:
 * Style Landing page
 * Dynamic price
 * Moment JS
+* Add Footer style
