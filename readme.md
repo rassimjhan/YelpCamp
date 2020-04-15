@@ -158,3 +158,4 @@ Each Campground has:
 * Dynamic price
 * Moment JS
 * Add Footer style
+* Migrating to Bootstrap 4
